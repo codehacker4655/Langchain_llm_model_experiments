@@ -102,11 +102,11 @@ COHERE_API_KEY=your_key
 
 Run any script:
 
-python chat_models/groq_model.py  
+python ChatModels/1_chatmodel_groq.py  
 
 or
 
-python embeddings/similarity_search.py  
+python EmbeddedModels/similarity_doc_retr.py  
 
 ---
 
