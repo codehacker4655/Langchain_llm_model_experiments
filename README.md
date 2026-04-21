@@ -17,7 +17,7 @@ It covers:
 
 ---
 
-## 📂 Project Structure
+
 
 ## 📂 Project Structure
 
@@ -41,7 +41,7 @@ LANGCHAIN_MODELS/
 ├── requirements.txt
 └── test.py
 
----
+```
 
 ## 🔥 What I Learned
 
