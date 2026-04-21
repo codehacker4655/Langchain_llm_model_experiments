@@ -19,27 +19,27 @@ It covers:
 
 ## 📂 Project Structure
 
-langchain-models/
-│
-├── chat_models/
-│   ├── groq_model.py
-│   ├── openai_model.py
-│   ├── google_model.py
-│   ├── hf_api_model.py
-│   └── hf_local_model.py
-│
-├── embeddings/
-│   ├── cohere_embedding.py
-│   ├── huggingface_embedding.py
-│   ├── document_embedding.py
-│   └── similarity_search.py
-│
-├── llm/
+## 📂 Project Structure
+
+```text
+LANGCHAIN_MODELS/
+├── ChatModels/
+│   ├── 1_chatmodel_groq.py
+│   ├── 2_chatmodel_openai.py
+│   ├── 3_chatmodel_google.py
+│   ├── 4_chatmodel_hf_api.py
+│   └── 5_chatmodel_hf_local.py
+├── EmbeddedModels/
+│   ├── embed_cohere.py
+│   ├── embed_hugging_sentence.py
+│   ├── embedding_cohere_docs.py
+│   └── similarity_doc_retr.py
+├── LLMs/
 │   └── llm_demo.py
-│
+├── .env
+├── .gitignore
 ├── requirements.txt
-├── README.md
-└── .gitignore
+└── test.py
 
 ---
 
