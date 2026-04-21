@@ -1,0 +1,33 @@
+#Langchain
+langchain
+langchain-core
+langchain-community
+
+#OpenAI Integration
+langchain-openai
+openai
+
+#Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+#huggingface integration
+langchain-huggingface
+transformers
+huggingface-hub
+sentence-transformers
+
+#machine learning utilities
+numpy
+pandas
+scikit-learn
+
+#environment variable managment
+#it reads your .env file and makes those values available to your code
+python-dotenv 
+
+#groq
+langchain-groq
+
+#cohere embeddings
+langchain-cohere
